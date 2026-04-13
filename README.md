@@ -1,4 +1,4 @@
-# TCC2025
+# TCC2025 - Curricular Viewer
 ## Grafos acíclicos direcionados em camadas para visualização de múltiplos históricos escolares
 
 Este projeto é uma ferramenta de visualização de dados desenvolvida como parte de um Trabalho de Conclusão de Curso (TCC). O software processa dados curriculares (XML) e registros acadêmicos (CSV) para gerar grafos interativos que permitem a análise de desempenho de estudantes, fluxo de disciplinas e retenção.
@@ -64,6 +64,10 @@ Deve conter a estrutura das disciplinas (Subjects), incluindo ID, nome, crédito
     -   Ao iniciar, uma janela pedirá para selecionar o arquivo **XML** (Catálogo/Grade).
     -   Em seguida, selecione o arquivo **CSV** (Dados dos Alunos).
     -   A interface gráfica será carregada automaticamente.
+
+5. **Visualização - Exemplo**
+   <img width="1365" height="720" alt="VisualizacaoGrade" src="https://github.com/user-attachments/assets/79454977-0f72-47cd-92c2-6da4eef46380" />
+   Obs.: dados fictícios)
 
 ## Contato:
 
